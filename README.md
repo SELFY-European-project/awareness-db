@@ -41,8 +41,8 @@ following type of data:
 
 ## Database format
 
-The data is provided under the form of [ROS2
-Rosbags](http://wiki.ros.org/Bags/Format/2.0). 
+For the moment, the data is provided under the form of [ROS1
+Rosbags](http://wiki.ros.org/Bags/Format/1.2). We aim to move to [ROS2](http://wiki.ros.org/Bags/Format/2.0) in a short future but it is not yet possible. 
 
 The synthetic data and real-measurement follow as much as possible the
 same message specification even if some specificities remains for each
